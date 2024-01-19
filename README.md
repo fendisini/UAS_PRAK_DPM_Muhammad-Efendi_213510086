@@ -1,5 +1,5 @@
 # Snack Expo (MERN)
 
 FrontEnd :
-https://snack.expo.dev/@alriawi/6?platform=web
+https://snack.expo.dev/@muhammad_efendi/muhammad-efendi_213510373_uas-prak-dpm?authuser=0
  
