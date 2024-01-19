@@ -1,2 +1,5 @@
-# UAS_PRAK_DPM_Muhammad-Efendi_213510086
-UAS PRAK DPM
+# Snack Expo (MERN)
+
+FrontEnd :
+https://snack.expo.dev/@alriawi/6?platform=web
+ 
